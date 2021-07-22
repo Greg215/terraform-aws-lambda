@@ -5,7 +5,7 @@
 4. AWS Lambda runtime Python 3.6
 5. Slack message options are customizable
 6. To enable slack notification, set up the webhook on your own Slack domain.
-
+7. The resources will be created can be found in the attached file: terraform_plan.md
 # Example
 The example of the sns message can be found in the same repository named: sns-example.png
 The example of the message in Slack can be found with name: slack-message.png
